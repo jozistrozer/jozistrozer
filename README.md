@@ -1,7 +1,7 @@
 ### Hi, I'm Jože 👋
 
 - 🌱 Currently mostly working on web projects.
-- ⚡ Fun fact: I have a crush on python.
+- ⚙️ Mastering: .py, .html, .css,.js, .cs
 
 ### Connect with me:
 [<img align="left" alt="jozistrozer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
