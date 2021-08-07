@@ -24,8 +24,9 @@
 <br />
 <br />
 
-<img align="left" alt="jozistrozer's github stats" src="https://github-readme-stats-jozistrozer.vercel.app/api?username=jozistrozer&show_icons=true&hide_border=true" /> 
-
 [ranorex]: https://www.ranorex.com/
 [website]: https://jozistrozer.github.io
 [instagram]: https://instagram.com/jozistrozer
+
+
+<img align="left" alt="jozistrozer's github stats" src="https://github-readme-stats-jozistrozer.vercel.app/api?username=jozistrozer&show_icons=true&hide_border=true" /> 
